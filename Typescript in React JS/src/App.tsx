@@ -6,6 +6,7 @@ function App() {
     <>
       <Child head="string" />
       <InputForm />
+      // inputform //
     </>
   );
 }
